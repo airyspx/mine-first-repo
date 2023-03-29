@@ -1,1 +1,2 @@
 # mine-first-ripo
+izmaiņas
