@@ -1,0 +1,9 @@
+dict= {"Diana":18, "Oksana":18, "Margarita":15}
+# print (dict)
+for key in dict:
+  print(dict[key])
+
+
+
+
+
