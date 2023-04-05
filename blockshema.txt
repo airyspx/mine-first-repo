@@ -1,9 +1,9 @@
-dict= {"Diana":18, "Oksana":18, "Margarita":15}
-# print (dict)
-for key in dict:
-  print(dict[key])
-
-
-
-
-
+people= {"Diana":18, "Oksana":18, "Margarita":15}
+for person in people:
+  # # print("-----")
+  # print(person)
+  # print(people[person])
+  if (people[person]) >= 18:
+   print(f"{person} ir pilngadiga")
+  else:
+   print(f"{person} nav pilngadiga") 
